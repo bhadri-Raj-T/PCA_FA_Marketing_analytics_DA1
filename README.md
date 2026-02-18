@@ -7,7 +7,9 @@ The objective of this assignment is to understand, implement, and interpret Prin
 ## Dataset
 
 link: https://www.kaggle.com/datasets/joebeachcapital/diabetes-factors
+
 The analysis is performed on a diabetes-related dataset containing medical and demographic variables.
+
 The objective is to understand latent factor structure and dimensionality reduction using PCA and FA.
 
 ## Assignment Objectives
