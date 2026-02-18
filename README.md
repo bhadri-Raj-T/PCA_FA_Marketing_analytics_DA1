@@ -4,6 +4,12 @@
 This repository contains my Digital Assignment submission for the Marketing Analytics subject.
 The objective of this assignment is to understand, implement, and interpret Principal Component Analysis (PCA) and Factor Analysis (FA) using R.
 
+## Dataset
+
+link: https://www.kaggle.com/datasets/joebeachcapital/diabetes-factors
+The analysis is performed on a diabetes-related dataset containing medical and demographic variables.
+The objective is to understand latent factor structure and dimensionality reduction using PCA and FA.
+
 ## Assignment Objectives
 
 This project covers the following:
@@ -72,10 +78,6 @@ car package
 
 stats package
 
-## Dataset
-
-The analysis is performed on a diabetes-related dataset containing medical and demographic variables.
-The objective is to understand latent factor structure and dimensionality reduction using PCA and FA.
 
 ## Learning Outcomes
 
